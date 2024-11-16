@@ -7,7 +7,7 @@ export default function HeroSection() {
     <div className='flex flex-col-reverse md:flex-row lg:flex-row justify-center items-center bg-pink-400 md:bg-orange-400 lg:bg-purple-500'>
         <div className='w-full md:w-6/12'>
           <h1 className='font-extrabold text-2xl md:my-3 lg:font-extrabold lg:text-3xl hover:text-red-500 lg:hover:text-blue-400 mx-7'>
-            Insanity Burger From 'Jamie Oliver's Comfort Food'
+            Insanity Burger From &apos;Jamie Olivers&apos; Comfort Food&apos;
           </h1>
           <p className='my-4 mx-4'>
             A classic burger with classic flavors, put together in a slightly weird but ultimately satisfying ...<br/>
